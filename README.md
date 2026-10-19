@@ -1,6 +1,6 @@
 # 🏥 Gestão de Resíduos Hospitalares (A3)
 
-Projeto académico desenvolvido para a disciplina de Banco de Dados / Desenvolvimento Web (Universidade Anhembi Morumbi).
+Projeto académico desenvolvido para a disciplina de Banco de Dados (Universidade Anhembi Morumbi).
 
 ---
 
