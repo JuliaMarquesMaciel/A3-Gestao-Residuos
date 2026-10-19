@@ -1,1 +1,9 @@
+# Pastas e ficheiros do sistema/editor
+.vscode/
+node_modules/
+*.log
+.DS_Store
 
+# Ficheiros compilados do Java
+*.class
+backend/*.class
